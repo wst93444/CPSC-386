@@ -1,19 +1,40 @@
-# Your Game Title
+<!-- Name: Site Wei -->
+<!-- CPSC 386-03-->
+<!-- 2022-02-07 -->
+<!-- sitew@csu.fullerton.edu -->
+<!-- @wst93444 -->
+<!-- # -->
+<!-- Lab 00-01 -->
+<!-- # -->
+<!-- This is my traditional game project. -->
+# Lucky Person
 
-_Please remove everything in this README and replace it with your game's README. Follow the advice and instructions below._
+2 Players game
 
-Use [Markdown](https://en.wikipedia.org/wiki/Markdown) to format your document. There is a [GitHub specific guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) that you can download to your computer.
+## Description
 
-Create a new(-ish) traditional-style game that can be played with common household materials. Please exclude any designs that use alcohol, controlled substances, or can cause physical/emotional pain. Provide instructions on how to play your game and a list of materials needed to play your game. Please illustrate your instructions.
+This game is a very traditional game, and it's good for people who older than 6 years old to play it. It it very easy to play with your friend, classmates, and family. You can play it at anywhere. Although it is a very simple game, he is full of unknowns and fantasies. 
 
-In the README.md you shall:
-* give general overview of the game
-* describe objectives and strategies
-* provide the rules and an explanation of the rules
-* illustrate the game, game pieces, application of the rules, etc.
+### Material
 
-The directory named images should contain all the images you wish to use in the document. You can show images in a Markdown file very easily. Below is an example of how to embed an image. In your final submission, please remove the sample image provided. _Please resize your images to be a reasonable size. Rule of thumb: if an image is larger than 1 MB, resize it._
+48 cards deck(3,4,5,6,7,8,9,10,Jack,Queen,King,Ace)
 
-![California State Fair September 14, 1917 Demonstration Train Wreck](images/train-wreck.jpg)
+### Game Rules
 
-You are strongly encouraged to create a video of the game play to help players understand how to play the game. Use a smart phone to record the action and post it to an online video sharing service such as YouTube or Vimeo. Link to the video using the videos sharing URL. Do not upload the video to GitHub since it will undoubtedly be too large.
+1. 3 is the smallest card, and Ace is the largest.(No suit comparison, only compare rank)
+1. Each round gives each player three cards, one at a time, until they have three cards.
+1. Players can't look at their cards before playing cards, just pick one card and play them out.
+1. If Player 1's card is larger than Player 2's card, then Player 1 gets the card that Player 2 just played out, vice versa.
+1. If two players have the same card rank, neither player can get the opponent's card.
+
+### Goals
+* The Player who received more cards than the opponent's will win the game.
+* The people who wins the game will be the Lucky Person!
+
+### Strategies
+Pray before play the game, God will bless you!
+
+This is an image of the game.
+![Lucky_Person_Game](images/lukcy_person_small.jpg)
+
+Here is a [video on how to play the game.](https://drive.google.com/file/d/1w3Bo5lF6ZVrBO7vSvxMjl2ujsK8U7_OR/view?usp=sharing)
