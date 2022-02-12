@@ -1,10 +1,10 @@
 <!-- Name: Site Wei -->
 <!-- CPSC 386-03-->
-<!-- 2022-02-07 -->
+<!-- 2022-02-11 -->
 <!-- sitew@csu.fullerton.edu -->
 <!-- @wst93444 -->
 <!-- # -->
-<!-- Lab 00-01 -->
+<!-- Lab 01-01 -->
 <!-- # -->
 <!-- This is my traditional game project. -->
 # Lucky Person
@@ -21,7 +21,7 @@ This game is a very traditional game, and it's good for people who older than 6 
 
 ### Game Rules
 
-1. 3 is the smallest card, and Ace is the largest.(No suit comparison, only compare rank)
+1. '3' is the smallest card, and 'Ace' is the largest.(No suit comparison, only compare rank)
 1. Each round gives each player three cards, one at a time, until they have three cards.
 1. Players can't look at their cards before playing cards, just pick one card and play them out.
 1. If Player 1's card is larger than Player 2's card, then Player 1 gets the card that Player 2 just played out, vice versa.
@@ -32,7 +32,8 @@ This game is a very traditional game, and it's good for people who older than 6 
 * The people who wins the game will be the Lucky Person!
 
 ### Strategies
-Pray before play the game, God will bless you!
+* Pray before play the game, God will bless you!
+
 
 This is an image of the game.
 ![Lucky_Person_Game](images/lukcy_person_small.jpg)
