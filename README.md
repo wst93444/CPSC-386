@@ -13,7 +13,7 @@
 
 ## Description
 
-This game is a very traditional game, and it's good for people who older than 6 years old to play it. It it very easy to play with your friend, classmates, and family. You can play it at anywhere. Although it is a very simple game, he is full of unknowns and fantasies. 
+This game is a very traditional game, and it's good for people who older than 6 years old to play it. It it very easy to play with your friend, classmates, and family. You can play it at anywhere. Although it is a very simple game, but it is full of unknowns and fantasies. 
 
 ### Material
 
